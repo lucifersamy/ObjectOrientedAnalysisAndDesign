@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Agility</OriginalElement>
+  <nodes>
+    <node x="10.5" y="255.0">Strength_x1_3</node>
+    <node x="353.7097389045065" y="1066.0">ValhallaPowerStore</node>
+    <node x="2030.8194426697332" y="255.0">Strength_x0_8</node>
+    <node x="191.3928571428571" y="540.0">ValhallaPowerIngredientFactory</node>
+    <node x="517.7097389045065" y="562.0">PowerStore</node>
+    <node x="1655.621941285459" y="540.0">AtlantisPowerIngredientFactory</node>
+    <node x="2388.051585526876" y="562.0">CampusesPuzzles.Action</node>
+    <node x="1068.0159537652269" y="1066.0">AtlantisPowerStore</node>
+    <node x="1409.8909537652269" y="1066.0">UnderwildPowerStore</node>
+    <node x="2103.051585526876" y="540.0">UnderwildPowerIngredientFactory</node>
+    <node x="1561.6130127140304" y="0.0">Agility</node>
+    <node x="1032.7097389045066" y="541.0">BlueIcePower</node>
+    <node x="1309.7097389045066" y="541.0">RedFirePower</node>
+    <node x="2388.5381926697337" y="255.0">Health_x0_8</node>
+    <node x="726.7097389045065" y="541.0">GreenNaturePower</node>
+    <node x="1752.1409537652266" y="957.0">CampusesPuzzles</node>
+    <node x="485.4314784053154" y="255.0">Health_x1_3</node>
+    <node x="1714.0505127140304" y="0.0">Health</node>
+    <node x="171.5" y="255.0">Agility_x0_4</node>
+    <node x="1727.8194426697332" y="255.0">Agility_x1_2</node>
+    <node x="995.9597389045065" y="233.0">PowerIngredientFactory</node>
+    <node x="1880.8194426697332" y="255.0">Health_x1_2</node>
+    <node x="2192.8194426697332" y="255.0">Agility_x1_6</node>
+    <node x="1346.79307223784" y="0.0">Strength</node>
+    <node x="1390.4597389045066" y="233.0">Power</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Strength_x0_8" target="Strength">
+      <point x="0.0" y="-26.5" />
+      <point x="2101.3194426697332" y="123.0" />
+      <point x="1457.5787865235543" y="123.0" />
+      <point x="40.28571428571422" y="26.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Agility">
+      <point x="0.0" y="-48.5" />
+      <point x="320.3928571428571" y="520.0" />
+      <point x="314.0" y="520.0" />
+      <point x="314.0" y="153.0" />
+      <point x="1585.8005127140304" y="153.0" />
+      <point x="-40.3125" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Health_x1_2">
+      <point x="73.71428571428578" y="-48.5" />
+      <point x="1858.3362269997447" y="510.0" />
+      <point x="1945.8194426697332" y="510.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="BlueIcePower" target="Power">
+      <point x="32.125" y="-47.5" />
+      <point x="1193.3347389045066" y="510.0" />
+      <point x="1446.1905081352759" y="510.0" />
+      <point x="-24.769230769230717" y="48.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="PowerIngredientFactory">
+      <point x="27.0" y="-26.5" />
+      <point x="1531.3909537652269" y="867.0" />
+      <point x="1623.121941285459" y="867.0" />
+      <point x="1623.121941285459" y="430.0" />
+      <point x="1155.876405571173" y="430.0" />
+      <point x="58.916666666666515" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Health">
+      <point x="36.85714285714289" y="-48.5" />
+      <point x="357.25" y="390.0" />
+      <point x="474.9314784053154" y="390.0" />
+      <point x="474.9314784053154" y="183.0" />
+      <point x="1722.1755127140304" y="183.0" />
+      <point x="-56.875" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="PowerStore">
+      <point x="-81.0" y="-26.5" />
+      <point x="1423.3909537652269" y="747.0" />
+      <point x="675.2097389045065" y="747.0" />
+      <point x="63.0" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="AtlantisPowerIngredientFactory">
+      <point x="81.0" y="-26.5" />
+      <point x="1243.5159537652269" y="887.0" />
+      <point x="1720.121941285459" y="887.0" />
+      <point x="-64.5" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="PowerIngredientFactory">
+      <point x="110.57142857142856" y="-48.5" />
+      <point x="430.96428571428567" y="410.0" />
+      <point x="1004.3764055711732" y="410.0" />
+      <point x="-92.58333333333326" y="48.5" />
+    </edge>
+    <edge source="Health_x1_2" target="Health">
+      <point x="0.0" y="-26.5" />
+      <point x="1945.8194426697332" y="153.0" />
+      <point x="1803.4255127140304" y="153.0" />
+      <point x="24.375" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Strength_x0_8">
+      <point x="110.57142857142844" y="-48.5" />
+      <point x="1895.1933698568873" y="520.0" />
+      <point x="2066.0694426697332" y="520.0" />
+      <point x="-35.25" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="Power">
+      <point x="54.0" y="-26.5" />
+      <point x="1216.5159537652269" y="857.0" />
+      <point x="1612.121941285459" y="857.0" />
+      <point x="1612.121941285459" y="510.0" />
+      <point x="1495.7289696737373" y="510.0" />
+      <point x="24.76923076923083" y="48.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="Power">
+      <point x="11.166666666666742" y="-135.5" />
+      <point x="1897.3076204318936" y="877.0" />
+      <point x="1953.746941285459" y="877.0" />
+      <point x="1953.746941285459" y="370.0" />
+      <point x="1532.8828158275835" y="370.0" />
+      <point x="61.923076923076906" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Agility_x0_4">
+      <point x="-36.85714285714286" y="-48.5" />
+      <point x="283.5357142857142" y="500.0" />
+      <point x="237.5" y="500.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Agility_x1_6">
+      <point x="0.0" y="-48.5" />
+      <point x="2235.551585526876" y="520.0" />
+      <point x="2258.8194426697332" y="520.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="PowerIngredientFactory">
+      <point x="-110.57142857142867" y="-48.5" />
+      <point x="1674.0505127140304" y="400.0" />
+      <point x="1172.7097389045066" y="400.0" />
+      <point x="75.75" y="48.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="GreenNaturePower">
+      <point x="-54.0" y="-26.5" />
+      <point x="1450.3909537652269" y="737.0" />
+      <point x="905.4597389045065" y="737.0" />
+      <point x="35.75" y="47.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Agility">
+      <point x="-36.85714285714289" y="-48.5" />
+      <point x="1747.7647984283162" y="380.0" />
+      <point x="1634.1755127140304" y="380.0" />
+      <point x="8.0625" y="26.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="CampusesPuzzles.Action">
+      <point x="78.16666666666663" y="-135.5" />
+      <point x="1964.3076204318934" y="917.0" />
+      <point x="2427.38491886021" y="917.0" />
+      <point x="-78.66666666666663" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="UnderwildPowerIngredientFactory">
+      <point x="81.0" y="-26.5" />
+      <point x="1585.3909537652269" y="897.0" />
+      <point x="2169.301585526876" y="897.0" />
+      <point x="-66.25" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="Power">
+      <point x="-27.0" y="-26.5" />
+      <point x="421.2097389045065" y="797.0" />
+      <point x="507.2097389045065" y="797.0" />
+      <point x="507.2097389045065" y="470.0" />
+      <point x="1396.6520465968142" y="470.0" />
+      <point x="-74.30769230769226" y="48.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="GreenNaturePower">
+      <point x="-27.0" y="-26.5" />
+      <point x="1135.5159537652269" y="767.0" />
+      <point x="833.9597389045065" y="767.0" />
+      <point x="-35.75" y="47.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Health_x0_8">
+      <point x="113.57142857142844" y="-48.5" />
+      <point x="2349.1230140983043" y="520.0" />
+      <point x="2453.5381926697337" y="520.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="Agility_x1_2" target="Agility">
+      <point x="0.0" y="-26.5" />
+      <point x="1793.8194426697332" y="173.0" />
+      <point x="1650.3005127140304" y="173.0" />
+      <point x="24.1875" y="26.5" />
+    </edge>
+    <edge source="Agility_x1_6" target="Agility">
+      <point x="0.0" y="-26.5" />
+      <point x="2258.8194426697332" y="103.0" />
+      <point x="1666.4255127140304" y="103.0" />
+      <point x="40.3125" y="26.5" />
+    </edge>
+    <edge source="Health_x1_3" target="Health">
+      <point x="0.0" y="-26.5" />
+      <point x="550.4314784053154" y="193.0" />
+      <point x="1738.4255127140304" y="193.0" />
+      <point x="-40.625" y="26.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Strength">
+      <point x="-110.57142857142867" y="-48.5" />
+      <point x="209.82142857142844" y="520.0" />
+      <point x="0.0" y="520.0" />
+      <point x="0.0" y="113.0" />
+      <point x="1356.8645008092685" y="113.0" />
+      <point x="-60.42857142857133" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="RedFirePower">
+      <point x="27.0" y="-26.5" />
+      <point x="1189.5159537652269" y="847.0" />
+      <point x="1406.4597389045066" y="847.0" />
+      <point x="-32.25" y="47.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Agility_x1_2">
+      <point x="0.0" y="-48.5" />
+      <point x="1784.621941285459" y="520.0" />
+      <point x="1793.8194426697332" y="520.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="PowerStore" target="Power">
+      <point x="0.0" y="-26.5" />
+      <point x="612.2097389045065" y="480.0" />
+      <point x="1409.0366619814297" y="480.0" />
+      <point x="-61.923076923076906" y="48.5" />
+    </edge>
+    <edge source="PowerIngredientFactory" target="Agility">
+      <point x="0.0" y="-48.5" />
+      <point x="1096.9597389045066" y="163.0" />
+      <point x="1601.9255127140304" y="163.0" />
+      <point x="-24.1875" y="26.5" />
+    </edge>
+    <edge source="RedFirePower" target="Power">
+      <point x="32.25" y="-47.5" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Health_x1_3">
+      <point x="73.71428571428572" y="-48.5" />
+      <point x="394.1071428571429" y="400.0" />
+      <point x="550.4314784053154" y="400.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="BlueIcePower">
+      <point x="0.0" y="-26.5" />
+      <point x="1162.5159537652269" y="757.0" />
+      <point x="1129.0847389045066" y="757.0" />
+      <point x="-32.125" y="47.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="PowerIngredientFactory">
+      <point x="-54.0" y="-26.5" />
+      <point x="394.2097389045065" y="787.0" />
+      <point x="485.2097389045065" y="787.0" />
+      <point x="485.2097389045065" y="420.0" />
+      <point x="1021.2097389045065" y="420.0" />
+      <point x="-75.75" y="48.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="PowerIngredientFactory">
+      <point x="-113.57142857142867" y="-48.5" />
+      <point x="2121.9801569554475" y="350.0" />
+      <point x="1189.5430722378396" y="350.0" />
+      <point x="92.58333333333326" y="48.5" />
+    </edge>
+    <edge source="Strength_x1_3" target="Strength">
+      <point x="0.0" y="-26.5" />
+      <point x="81.0" y="123.0" />
+      <point x="1377.0073579521259" y="123.0" />
+      <point x="-40.28571428571422" y="26.5" />
+    </edge>
+    <edge source="Power" target="Health">
+      <point x="53.66666666666663" y="-48.5" />
+      <point x="1524.626405571173" y="213.0" />
+      <point x="1770.9255127140304" y="213.0" />
+      <point x="-8.125" y="26.5" />
+    </edge>
+    <edge source="RedFirePower" target="PowerIngredientFactory">
+      <point x="-96.75" y="-47.5" />
+      <point x="1341.9597389045066" y="450.0" />
+      <point x="1122.2097389045066" y="450.0" />
+      <point x="25.25" y="48.5" />
+    </edge>
+    <edge source="Agility_x0_4" target="Agility">
+      <point x="0.0" y="-26.5" />
+      <point x="237.5" y="143.0" />
+      <point x="1569.6755127140304" y="143.0" />
+      <point x="-56.4375" y="26.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="PowerStore">
+      <point x="-54.0" y="-26.5" />
+      <point x="1108.5159537652269" y="777.0" />
+      <point x="612.2097389045065" y="777.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="CampusesPuzzles.Action" target="CampusesPuzzles">
+      <point x="78.66666666666674" y="26.5" />
+      <point x="2584.718252193543" y="937.0" />
+      <point x="2008.9742870985601" y="937.0" />
+      <point x="122.83333333333337" y="-135.5" />
+    </edge>
+    <edge source="AtlantisPowerStore" target="PowerIngredientFactory">
+      <point x="-81.0" y="-26.5" />
+      <point x="1081.5159537652269" y="787.0" />
+      <point x="496.2097389045065" y="787.0" />
+      <point x="496.2097389045065" y="430.0" />
+      <point x="1038.0430722378396" y="430.0" />
+      <point x="-58.91666666666674" y="48.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Health">
+      <point x="36.85714285714289" y="-48.5" />
+      <point x="1821.479084142602" y="500.0" />
+      <point x="1870.3194426697332" y="500.0" />
+      <point x="1870.3194426697332" y="163.0" />
+      <point x="1787.1755127140304" y="163.0" />
+      <point x="8.125" y="26.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="ValhallaPowerIngredientFactory">
+      <point x="-81.0" y="-26.5" />
+      <point x="367.2097389045065" y="937.0" />
+      <point x="255.8928571428571" y="937.0" />
+      <point x="-64.5" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="PowerStore">
+      <point x="0.0" y="-26.5" />
+      <point x="448.2097389045065" y="807.0" />
+      <point x="549.2097389045065" y="807.0" />
+      <point x="-63.0" y="26.5" />
+    </edge>
+    <edge source="PowerIngredientFactory" target="Strength">
+      <point x="-67.33333333333326" y="-48.5" />
+      <point x="1029.626405571173" y="133.0" />
+      <point x="1397.1502150949827" y="133.0" />
+      <point x="-20.14285714285711" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="RedFirePower">
+      <point x="0.0" y="-26.5" />
+      <point x="1504.3909537652269" y="717.0" />
+      <point x="1470.9597389045066" y="717.0" />
+      <point x="32.25" y="47.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="BlueIcePower">
+      <point x="-27.0" y="-26.5" />
+      <point x="1477.3909537652269" y="727.0" />
+      <point x="1193.3347389045066" y="727.0" />
+      <point x="32.125" y="47.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Strength_x0_8">
+      <point x="-75.71428571428578" y="-48.5" />
+      <point x="2159.8372998125906" y="520.0" />
+      <point x="2136.5694426697332" y="520.0" />
+      <point x="35.25" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Agility">
+      <point x="37.85714285714266" y="-48.5" />
+      <point x="2273.408728384019" y="500.0" />
+      <point x="2335.3194426697332" y="500.0" />
+      <point x="2335.3194426697332" y="93.0" />
+      <point x="1682.5505127140304" y="93.0" />
+      <point x="56.4375" y="26.5" />
+    </edge>
+    <edge source="GreenNaturePower" target="Power">
+      <point x="35.75" y="-47.5" />
+      <point x="905.4597389045065" y="490.0" />
+      <point x="1421.421277366045" y="490.0" />
+      <point x="-49.53846153846155" y="48.5" />
+    </edge>
+    <edge source="BlueIcePower" target="PowerIngredientFactory">
+      <point x="-96.375" y="-47.5" />
+      <point x="1064.8347389045066" y="460.0" />
+      <point x="1088.5430722378396" y="460.0" />
+      <point x="-8.416666666666742" y="48.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Health">
+      <point x="75.71428571428578" y="-48.5" />
+      <point x="2311.265871241162" y="510.0" />
+      <point x="2378.0381926697332" y="510.0" />
+      <point x="2378.0381926697332" y="83.0" />
+      <point x="1819.6755127140304" y="83.0" />
+      <point x="40.625" y="26.5" />
+    </edge>
+    <edge source="GreenNaturePower" target="PowerIngredientFactory">
+      <point x="-107.25" y="-47.5" />
+      <point x="762.4597389045065" y="440.0" />
+      <point x="1054.876405571173" y="440.0" />
+      <point x="-42.08333333333326" y="48.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="UnderwildPowerIngredientFactory">
+      <point x="55.83333333333337" y="-135.5" />
+      <point x="1941.9742870985601" y="907.0" />
+      <point x="2301.801585526876" y="907.0" />
+      <point x="66.25" y="48.5" />
+    </edge>
+    <edge source="Power" target="Agility">
+      <point x="0.0" y="-48.5" />
+      <point x="1470.9597389045066" y="173.0" />
+      <point x="1618.0505127140304" y="173.0" />
+      <point x="-8.0625" y="26.5" />
+    </edge>
+    <edge source="Power" target="Strength">
+      <point x="-53.66666666666663" y="-48.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="ValhallaPowerIngredientFactory">
+      <point x="-122.83333333333326" y="-135.5" />
+      <point x="1763.3076204318936" y="707.0" />
+      <point x="384.8928571428571" y="707.0" />
+      <point x="64.5" y="48.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="AtlantisPowerIngredientFactory">
+      <point x="-11.166666666666629" y="-135.5" />
+      <point x="1874.9742870985601" y="657.0" />
+      <point x="1849.121941285459" y="657.0" />
+      <point x="64.5" y="48.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="BlueIcePower">
+      <point x="54.0" y="-26.5" />
+      <point x="502.2097389045065" y="827.0" />
+      <point x="1064.8347389045066" y="827.0" />
+      <point x="-96.375" y="47.5" />
+    </edge>
+    <edge source="ValhallaPowerIngredientFactory" target="Strength_x1_3">
+      <point x="-73.71428571428572" y="-48.5" />
+      <point x="246.67857142857133" y="510.0" />
+      <point x="81.0" y="510.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="GreenNaturePower">
+      <point x="-100.49999999999989" y="-135.5" />
+      <point x="1785.6409537652269" y="697.0" />
+      <point x="976.9597389045065" y="697.0" />
+      <point x="107.25" y="47.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="GreenNaturePower">
+      <point x="27.0" y="-26.5" />
+      <point x="475.2097389045065" y="817.0" />
+      <point x="762.4597389045065" y="817.0" />
+      <point x="-107.25" y="47.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="RedFirePower">
+      <point x="-55.83333333333326" y="-135.5" />
+      <point x="1830.3076204318936" y="677.0" />
+      <point x="1535.4597389045066" y="677.0" />
+      <point x="96.75" y="47.5" />
+    </edge>
+    <edge source="Health_x0_8" target="Health">
+      <point x="0.0" y="-26.5" />
+      <point x="2453.5381926697337" y="73.0" />
+      <point x="1835.9255127140304" y="73.0" />
+      <point x="56.87500000000023" y="26.5" />
+    </edge>
+    <edge source="ValhallaPowerStore" target="RedFirePower">
+      <point x="81.0" y="-26.5" />
+      <point x="529.2097389045065" y="837.0" />
+      <point x="1341.9597389045066" y="837.0" />
+      <point x="-96.75" y="47.5" />
+    </edge>
+    <edge source="UnderwildPowerIngredientFactory" target="Strength">
+      <point x="-37.85714285714266" y="-48.5" />
+      <point x="2197.6944426697337" y="520.0" />
+      <point x="2182.3194426697332" y="520.0" />
+      <point x="2182.3194426697332" y="113.0" />
+      <point x="1477.7216436664112" y="113.0" />
+      <point x="60.42857142857133" y="26.5" />
+    </edge>
+    <edge source="PowerIngredientFactory" target="Health">
+      <point x="67.33333333333326" y="-48.5" />
+      <point x="1164.2930722378396" y="203.0" />
+      <point x="1754.6755127140304" y="203.0" />
+      <point x="-24.375" y="26.5" />
+    </edge>
+    <edge source="UnderwildPowerStore" target="Power">
+      <point x="54.0" y="-26.5" />
+      <point x="1558.3909537652269" y="877.0" />
+      <point x="1634.121941285459" y="877.0" />
+      <point x="1634.121941285459" y="420.0" />
+      <point x="1508.1135850583528" y="420.0" />
+      <point x="37.15384615384619" y="48.5" />
+    </edge>
+    <edge source="CampusesPuzzles" target="BlueIcePower">
+      <point x="-78.16666666666652" y="-135.5" />
+      <point x="1807.9742870985601" y="687.0" />
+      <point x="1257.5847389045066" y="687.0" />
+      <point x="96.375" y="47.5" />
+    </edge>
+    <edge source="AtlantisPowerIngredientFactory" target="Strength">
+      <point x="-73.71428571428578" y="-48.5" />
+      <point x="1710.907655571173" y="390.0" />
+      <point x="1623.1755127140304" y="390.0" />
+      <point x="1623.1755127140304" y="133.0" />
+      <point x="1437.435929380697" y="133.0" />
+      <point x="20.14285714285711" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="348.5" y="241.0" />
+  <SelectedNodes>
+    <node>Agility</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
