@@ -1,2 +1,2 @@
 # ObjectOrientedAnalysisAndDesign
-Object Oriented Analysis and Design class projects
+Object Oriented Analysis and Design class assigments
